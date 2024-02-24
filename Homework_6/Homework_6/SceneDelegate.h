@@ -1,6 +1,6 @@
 //
 //  SceneDelegate.h
-//  Homework_5
+//  Homework_6
 //
 //  Created by macbook on 21.02.2024.
 //
@@ -12,3 +12,4 @@
 @property (strong, nonatomic) UIWindow * window;
 
 @end
+

@@ -1,6 +1,6 @@
 //
 //  AppDelegate.h
-//  Homework_5
+//  Homework_6
 //
 //  Created by macbook on 21.02.2024.
 //
@@ -9,4 +9,6 @@
 
 @interface AppDelegate : UIResponder <UIApplicationDelegate>
 
+
 @end
+

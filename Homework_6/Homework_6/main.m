@@ -1,8 +1,8 @@
 //
 //  main.m
-//  Homework_5
+//  Homework_6
 //
-//  Created by macbook on 15.02.2024.
+//  Created by macbook on 21.02.2024.
 //
 
 #import <UIKit/UIKit.h>
